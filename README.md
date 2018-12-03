@@ -8,4 +8,8 @@ Aulas serao no Anfiteatro III CAmpus II
 - Genetic clustering framework: Daniel Barretto, David Cairuz, João Guilherme Araújo, Luísa Moura - https://github.com/lusmoura/Darwin
 - Neuroevolutional Car Racing game: Lucas Mitri, Lucas Marcondes, Luis Ricardo - https://github.com/lucasgdm/neuroevolution-car-racing 🏎️
 - NEAT SuperHexagon + gambiarras do Windows: Leonardo Gomes, André Almada, Eduardo Misiuk, Ali Husseinat - https://github.com/leoagomes/super-intelligence
-- Proximo Grupo...
+- Simon's Evolution (Tron tira a tampa!): Eleazar Braga, Fabrício Guedes, Gustavo Lopes - https://github.com/fabricio-gf/tira-a-tampa
+- Circuit Optimizer: Guilherme Prearo, Gustavo Nicolau, Paulo Augusto, Vianna - https://github.com/gprearo/CircuitOptimizer
+- Slither IO - Snake Evolution: Paulo Augusto, Guilherme Prearo, Gustavo Nicolau -https://github.com/Kotzly/Slither_IO_IA
+- Próximo Grupo ...
+
