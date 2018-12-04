@@ -12,5 +12,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Circuit Optimizer: Guilherme Prearo, Gustavo Nicolau, Paulo Augusto, Vianna - https://github.com/gprearo/CircuitOptimizer
 - Slither IO - Snake Evolution: Paulo Augusto, Guilherme Prearo, Gustavo Nicolau -https://github.com/Kotzly/Slither_IO_IA
 - FlappyBird e Vinho: Andre Daher Benedetti, Marcelo Bertoldi Diani - https://github.com/MarceloBD/sistemasEvolutivos 
+- Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
 - Próximo Grupo ...
 
