@@ -15,5 +15,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Image Aproximator: Bruno Bacelar Abe, Paula Cepollaro Diana - https://github.com/abe2602/EvolvingAlgs
 - FlappyBird e Vinho: Andre Daher Benedetti, Marcelo Bertoldi Diani - https://github.com/MarceloBD/sistemasEvolutivos 
 - Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
+- Caixeiro Viajante (TSP): Murilo Baldi, Victor Roberti Camolesi - https://github.com/Murgalha/tsp-ga
 - Próximo Grupo ...
 
