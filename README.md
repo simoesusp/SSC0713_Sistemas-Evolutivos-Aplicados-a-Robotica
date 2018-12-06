@@ -16,5 +16,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - FlappyBird e Vinho: Andre Daher Benedetti, Marcelo Bertoldi Diani - https://github.com/MarceloBD/sistemasEvolutivos 
 - Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
 - Caixeiro Viajante (TSP): Murilo Baldi, Victor Roberti Camolesi - https://github.com/Murgalha/tsp-ga
+- Mario Evolution: Gabriel Nicolau, Gabriell Tavares, Edson Andrade - https://github.com/7Nic/Mario-Evolution
 - Próximo Grupo ...
 
