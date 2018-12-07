@@ -17,5 +17,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
 - Caixeiro Viajante (TSP): Murilo Baldi, Victor Roberti Camolesi - https://github.com/Murgalha/tsp-ga
 - We Are The Robots (ainda incompleto): Atenágoras Souza Silva - https://gitlab.com/atenagoras/We_Are_The_Robots
+- Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Próximo Grupo ...
 
