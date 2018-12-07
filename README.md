@@ -18,5 +18,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Caixeiro Viajante (TSP): Murilo Baldi, Victor Roberti Camolesi - https://github.com/Murgalha/tsp-ga
 - We Are The Robots (ainda incompleto): Atenágoras Souza Silva - https://gitlab.com/atenagoras/We_Are_The_Robots
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
+- Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Próximo Grupo ...
 
