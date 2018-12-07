@@ -11,7 +11,7 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simon's Evolution (Tron tira a tampa!): Eleazar Braga, Fabrício Guedes, Gustavo Lopes - https://github.com/fabricio-gf/tira-a-tampa
 - Circuit Optimizer: Guilherme Prearo, Gustavo Nicolau, Paulo Augusto, Vianna - https://github.com/gprearo/CircuitOptimizer
 - Slither IO - Snake Evolution: Paulo Augusto, Guilherme Prearo, Gustavo Nicolau -https://github.com/Kotzly/Slither_IO_IA
-- Elections in Brazil : Marilene Garcia, Maria Luisa do Nascimento - https://github.com/MariaLuisaNascimento/Trabalho-AlgEvo
+- Elections in Brazil (Apresentacao em Video https://www.youtube.com/watch?v=eg5iIUG49T0) : Marilene Garcia, Maria Luisa do Nascimento - https://github.com/MariaLuisaNascimento/Trabalho-AlgEvo
 - Image Aproximator: Bruno Bacelar Abe, Paula Cepollaro Diana - https://github.com/abe2602/EvolvingAlgs
 - FlappyBird e Vinho: Andre Daher Benedetti, Marcelo Bertoldi Diani - https://github.com/MarceloBD/sistemasEvolutivos 
 - Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
