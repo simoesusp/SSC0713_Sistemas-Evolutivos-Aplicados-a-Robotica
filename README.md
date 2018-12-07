@@ -19,5 +19,5 @@ Aulas serao no Anfiteatro III CAmpus II
 - We Are The Robots (ainda incompleto): Atenágoras Souza Silva - https://gitlab.com/atenagoras/We_Are_The_Robots
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
-- Tic TAC Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
+- Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
 
