@@ -17,6 +17,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Snake AI: Paulo Pinheiro Lemgruber Jeunon Sousa, Matheus Carvalho Nali - https://github.com/PauloLemgruberJeunon/AI_Snake
 - Caixeiro Viajante (TSP): Murilo Baldi, Victor Roberti Camolesi - https://github.com/Murgalha/tsp-ga
 - We Are The Robots (ainda incompleto): Atenágoras Souza Silva - https://gitlab.com/atenagoras/We_Are_The_Robots
-- AG-Solver (Otimização Linear): Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
+- Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Próximo Grupo ...
 
