@@ -20,5 +20,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
+- Tibia Neat: Alex Sander R. Silva - https://github.com/Psycho-Ray/Tibia-Neat
 - Próximo Grupo ...
 
