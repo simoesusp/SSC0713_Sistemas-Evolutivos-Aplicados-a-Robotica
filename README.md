@@ -20,6 +20,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
-- FlappyBird: Bolinha Preta- 
+- FlappyBird: Bolinha Preta: Giovanni Attina do Nascimento, Paulo Andre Carneiro- 
 https://github.com/PauloCarneiro99/Flappy-Bird
 - Próximo Grupo ...
