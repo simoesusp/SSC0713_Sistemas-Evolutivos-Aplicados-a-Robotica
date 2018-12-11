@@ -20,6 +20,7 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
+- Genetic Minimax Checkers/Racing Car Evolution: Gabriel Carvalho, Victor Souza Cezario - https://github.com/victorcezario97/GACheckers.git (Checkers) / https://github.com/GabrielBCarvalho/Evolutionary-Algorithm-Car (Racing Car)
 - A.G. com redeus neurais (jogo da velha): Bráulio Bezerra, Samuel Ferreira, João Ramos, Victor Giovannoni - https://github.com/brauliousp/jogo_da_velha
 - Vida de Inseto: Danilo Henrique Cordeiro, Gabriel Kanegae Souza, Marcos Vinicius Barros de Lima Andrade Junqueira - https://github.com/Dancorde/evolutionary-steering (link do trabalho rodando: https://dancorde.github.io/evolutionary-steering/)
 - Sliding Puzzle AG: Gabriel Toschi de Oliveira, Ana Maia Baptistão, Fernanda Tostes Marana - https://github.com/gabtoschi/slidingpuzzleGA
