@@ -20,6 +20,7 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simplex Evolutivo: Bruno Flávo, Edson Yudi, Rafael Amaro Rolfsen - https://github.com/Exilio016/AG-Solver
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
+- Sliding Puzzle AG: Gabriel Toschi de Oliveira, Ana Maia Baptistão, Fernanda Tostes Marana - https://github.com/gabtoschi/slidingpuzzleGA
 - Ant Collony: David Souza Rodrigues, Marcos Wendell Souza de Oliveira Santos - https://github.com/MarcosWendell/Algoritmos_Evolutivos
 - Tibia Neat: Alex Sander R. Silva - https://github.com/Psycho-Ray/Tibia-Neat
 - FlappyBird: Bolinha Preta: Giovanni Attina do Nascimento, Paulo Andre Carneiro - https://github.com/PauloCarneiro99/Flappy-Bird
