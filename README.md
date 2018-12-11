@@ -21,5 +21,11 @@ Aulas serao no Anfiteatro III CAmpus II
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
 - Vida de Inseto: Danilo Henrique Cordeiro, Gabriel Kanegae Souza, Marcos Vinicius Barros de Lima Andrade Junqueira - https://github.com/Dancorde/evolutionary-steering (link do trabalho rodando: https://dancorde.github.io/evolutionary-steering/)
-- Próximo Grupo ...
+- Sliding Puzzle AG: Gabriel Toschi de Oliveira, Ana Maia Baptistão, Fernanda Tostes Marana - https://github.com/gabtoschi/slidingpuzzleGA
+- Ant Collony: David Souza Rodrigues, Marcos Wendell Souza de Oliveira Santos - https://github.com/MarcosWendell/Algoritmos_Evolutivos
+- Tibia Neat: Alex Sander R. Silva - https://github.com/Psycho-Ray/Tibia-Neat
+- FlappyBird: Bolinha Preta: Giovanni Attina do Nascimento, Paulo Andre Carneiro - https://github.com/PauloCarneiro99/Flappy-Bird
+- Cinturão de Asteroides: Lucas Nobuyuki Takahashi, Marcelo Kiochi Hatanaka, Paulo Renato Campos Barbosa - https://github.com/pauloty/Cinturao-De-Asteroides
+- FoguetesEvolutivos: Alexandre Norcia Medeiros, Giovani Decico Lucafo, Luiz Henrique Lourencao - https://github.com/alexandrenmedeiros/FoguetesEvolutivos
 
+- Próximo Grupo ...
