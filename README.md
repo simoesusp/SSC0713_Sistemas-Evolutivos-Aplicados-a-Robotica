@@ -21,5 +21,9 @@ Aulas serao no Anfiteatro III CAmpus II
 - Multithreaded Genetic Algorithm: Gabriel Romualdo Silveira Pupo - https://github.com/gabrielrspupo/multithread-ga
 - Tic Tac Toe AI: Luís Eduardo Rozante de Freitas Pereira - https://github.com/LuisEduardoR/tic-tac-toe-genetic-algorithm
 - Tibia Neat: Alex Sander R. Silva - https://github.com/Psycho-Ray/Tibia-Neat
-- Próximo Grupo ...
+- FlappyBird: Bolinha Preta: Giovanni Attina do Nascimento, Paulo Andre Carneiro- 
+https://github.com/PauloCarneiro99/Flappy-Bird
+- Cinturão de Asteroides: Lucas Nobuyuki Takahashi, Marcelo Kiochi Hatanaka, Paulo Renato Campos Barbosa - https://github.com/pauloty/Cinturao-De-Asteroides
+- FoguetesEvolutivos: Alexandre Norcia Medeiros, Giovani Decico Lucafo, Luiz Henrique Lourencao - https://github.com/alexandrenmedeiros/FoguetesEvolutivos
 
+- Próximo Grupo ...
