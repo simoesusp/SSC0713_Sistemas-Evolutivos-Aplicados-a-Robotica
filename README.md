@@ -30,4 +30,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Cinturão de Asteroides: Lucas Nobuyuki Takahashi, Marcelo Kiochi Hatanaka, Paulo Renato Campos Barbosa - https://github.com/pauloty/Cinturao-De-Asteroides
 - FoguetesEvolutivos: Alexandre Norcia Medeiros, Giovani Decico Lucafo, Luiz Henrique Lourencao - https://github.com/alexandrenmedeiros/FoguetesEvolutivos
 - Neurogen Snake: Guilherme Milan Santos - https://github.com/guilhermesantos/neurogen_snake
+-lo e 248 AI, Miguel Gardini, João Pedro Mattos, Vitor Rossi Speranza - https://github.com/vrsperanza/2048-AI---Evolutive-algorithm
+- Ploty , Vitor Santana Cordeiro, Thiago Preischadt Pinheiro, André Luís Mendes Fakhoury, - https://github.com/andrefak/genetic-algorithm-plotly
 - Próximo Grupo ...
