@@ -32,4 +32,5 @@ Aulas serao no Anfiteatro III CAmpus II
 - Neurogen Snake: Guilherme Milan Santos - https://github.com/guilhermesantos/neurogen_snake
 -lo e 248 AI, Miguel Gardini, João Pedro Mattos, Vitor Rossi Speranza - https://github.com/vrsperanza/2048-AI---Evolutive-algorithm
 - Ploty , Vitor Santana Cordeiro, Thiago Preischadt Pinheiro, André Luís Mendes Fakhoury, - https://github.com/andrefak/genetic-algorithm-plotly
+- ProblemaMaximizarItensCaminhao, Helen Santos Picoli - https://github.com/helenspicoli/AlgGenProject
 - Próximo Grupo ...
