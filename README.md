@@ -33,4 +33,5 @@ Aulas serao no Anfiteatro III CAmpus II
 -lo e 248 AI, Miguel Gardini, João Pedro Mattos, Vitor Rossi Speranza - https://github.com/vrsperanza/2048-AI---Evolutive-algorithm
 - Ploty , Vitor Santana Cordeiro, Thiago Preischadt Pinheiro, André Luís Mendes Fakhoury, - https://github.com/andrefak/genetic-algorithm-plotly
 - ProblemaMaximizarItensCaminhao, Helen Santos Picoli - https://github.com/helenspicoli/AlgGenProject
+- Space Invaders: Guilherme de Pinho Montemovo, Igor Barbosa Grécia Lúcio, Rafael Corradini da Cunha - https://github.com/rafaelcorradini/space-invaders-genetic-ia
 - Próximo Grupo ...
