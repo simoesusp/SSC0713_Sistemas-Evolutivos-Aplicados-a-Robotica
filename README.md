@@ -36,5 +36,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Space Invaders: Guilherme de Pinho Montemovo, Igor Barbosa Grécia Lúcio, Rafael Corradini da Cunha - https://github.com/rafaelcorradini/space-invaders-genetic-ia
 - Black Jack, Guilherme dos Reis, Tiago Daneluzzi - https://github.com/daneluzzitiago/21_evolutivo
 - Ecossistema com predador e presa: Ygor Pontelo, Marcelo Temoteo e Matheus Lucas - https://github.com/ygorpontelo/ecosystem
+- AG Labirinto: Kouao Jean Vincent Mea - https://github.com/jeanvincentmea/sistemas_evolutivos
 - Próximo Grupo ...
 
